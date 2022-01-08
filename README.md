@@ -2,7 +2,7 @@
 
  [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
  
-### This is a texture pack for Minecraft which makes water more more see-through.
+### This texture pack for Minecraft makes water more see-through.
 
 ## Installation
 
