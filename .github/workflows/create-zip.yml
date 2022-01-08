@@ -1,8 +1,8 @@
 name: Create Texture Pack Zip File
 on:
-  push:
-    branches: [ main ]
-  workflow_dispatch:
+  create:
+    tags:
+      - v*
 jobs:
   build:
     runs-on: ubuntu-latest
