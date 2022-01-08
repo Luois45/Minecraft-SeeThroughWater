@@ -13,7 +13,7 @@ jobs:
       with:
         type: 'zip'
         filename: 'SeeThroughWater.zip'
-        exclusions: '*.git* images*'
+        exclusions: '*.git* *images*'
     - name: Upload Release
       uses: ncipollo/release-action@v1
       with:
