@@ -23,3 +23,9 @@
 #### 5. Copy the texture pack into the Texture Pack Folder.
 
 #### 6. Select the texture pack in the Texture Pack Options of Minecraft.
+
+## Screenshots
+
+![1st image](https://raw.githubusercontent.com/Luois45/Minecraft-SeeThroughWater/main/images/1.png)
+
+![2nd image](https://raw.githubusercontent.com/Luois45/Minecraft-SeeThroughWater/main/images/2.png)
